@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2? family = Open + Sans + Condensed: ital, wght @ 1,300 & display = swap');
+body {
+    background-color: rgb(235, 177, 224);
+color: rgb(19, 18, 18);
+font-size: 16px;
+font-weight: normal;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+a{
+    color: rgb(230, 169, 234);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+img{
+    width: 250px;
+    background-color: rgb(217, 108, 201);
+    border-radius: 10%;
+}
+ul{
+    list-style-type: square;
+}
+ul li a{
+    color:rgb(171, 44, 135)
+}
